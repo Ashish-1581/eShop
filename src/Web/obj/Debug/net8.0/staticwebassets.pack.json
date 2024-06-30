@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/_variables.css",
+      "PackagePath": "staticwebassets/css/_variables.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/_variables.min.css",
+      "PackagePath": "staticwebassets/css/_variables.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/_variables.scss",
+      "PackagePath": "staticwebassets/css/_variables.scss"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/app.component.css",
+      "PackagePath": "staticwebassets/css/app.component.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/app.component.min.css",
+      "PackagePath": "staticwebassets/css/app.component.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/app.component.scss",
+      "PackagePath": "staticwebassets/css/app.component.scss"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/app.min.css",
+      "PackagePath": "staticwebassets/css/app.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/basket/basket-status/basket-status.component.css",
+      "PackagePath": "staticwebassets/css/basket/basket-status/basket-status.component.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/basket/basket-status/basket-status.component.min.css",
+      "PackagePath": "staticwebassets/css/basket/basket-status/basket-status.component.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/basket/basket-status/basket-status.component.scss",
+      "PackagePath": "staticwebassets/css/basket/basket-status/basket-status.component.scss"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/basket/basket.component.css",
+      "PackagePath": "staticwebassets/css/basket/basket.component.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/basket/basket.component.min.css",
+      "PackagePath": "staticwebassets/css/basket/basket.component.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/basket/basket.component.scss",
+      "PackagePath": "staticwebassets/css/basket/basket.component.scss"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/catalog/catalog.component.css",
+      "PackagePath": "staticwebassets/css/catalog/catalog.component.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/catalog/catalog.component.min.css",
+      "PackagePath": "staticwebassets/css/catalog/catalog.component.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/catalog/catalog.component.scss",
+      "PackagePath": "staticwebassets/css/catalog/catalog.component.scss"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/catalog/pager.css",
+      "PackagePath": "staticwebassets/css/catalog/pager.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/orders/orders.component.css",
+      "PackagePath": "staticwebassets/css/orders/orders.component.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/orders/orders.component.min.css",
+      "PackagePath": "staticwebassets/css/orders/orders.component.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/orders/orders.component.scss",
+      "PackagePath": "staticwebassets/css/orders/orders.component.scss"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/shared/components/header/header.css",
+      "PackagePath": "staticwebassets/css/shared/components/header/header.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/shared/components/header/header.min.css",
+      "PackagePath": "staticwebassets/css/shared/components/header/header.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/shared/components/header/header.scss",
+      "PackagePath": "staticwebassets/css/shared/components/header/header.scss"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/shared/components/identity/identity.css",
+      "PackagePath": "staticwebassets/css/shared/components/identity/identity.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/shared/components/identity/identity.min.css",
+      "PackagePath": "staticwebassets/css/shared/components/identity/identity.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/shared/components/identity/identity.scss",
+      "PackagePath": "staticwebassets/css/shared/components/identity/identity.scss"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/shared/components/pager/pager.css",
+      "PackagePath": "staticwebassets/css/shared/components/pager/pager.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/shared/components/pager/pager.min.css",
+      "PackagePath": "staticwebassets/css/shared/components/pager/pager.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/shared/components/pager/pager.scss",
+      "PackagePath": "staticwebassets/css/shared/components/pager/pager.scss"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/css/site.min.css",
+      "PackagePath": "staticwebassets/css/site.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Bold.eot",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Bold.eot"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Bold.svg",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Bold.svg"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Bold.woff",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Bold.woff"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Bold.woff2",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Bold.woff2"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Regular.eot",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Regular.eot"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Regular.svg",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Regular.svg"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Regular.woff",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Regular.woff"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/fonts/Montserrat-Regular.woff2",
+      "PackagePath": "staticwebassets/fonts/Montserrat-Regular.woff2"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/arrow-down.png",
+      "PackagePath": "staticwebassets/images/arrow-down.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/arrow-right.svg",
+      "PackagePath": "staticwebassets/images/arrow-right.svg"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/brand.png",
+      "PackagePath": "staticwebassets/images/brand.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/cart.png",
+      "PackagePath": "staticwebassets/images/cart.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/logout.png",
+      "PackagePath": "staticwebassets/images/logout.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/main_banner.png",
+      "PackagePath": "staticwebassets/images/main_banner.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/main_banner_text.png",
+      "PackagePath": "staticwebassets/images/main_banner_text.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/main_banner_text.svg",
+      "PackagePath": "staticwebassets/images/main_banner_text.svg"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/my_orders.png",
+      "PackagePath": "staticwebassets/images/my_orders.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/1.png",
+      "PackagePath": "staticwebassets/images/products/1.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/10.png",
+      "PackagePath": "staticwebassets/images/products/10.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/11.png",
+      "PackagePath": "staticwebassets/images/products/11.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/12.png",
+      "PackagePath": "staticwebassets/images/products/12.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/2.png",
+      "PackagePath": "staticwebassets/images/products/2.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/3.png",
+      "PackagePath": "staticwebassets/images/products/3.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/4.png",
+      "PackagePath": "staticwebassets/images/products/4.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/5.jpg",
+      "PackagePath": "staticwebassets/images/products/5.jpg"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/5.png",
+      "PackagePath": "staticwebassets/images/products/5.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/6.png",
+      "PackagePath": "staticwebassets/images/products/6.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/7.png",
+      "PackagePath": "staticwebassets/images/products/7.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/8.png",
+      "PackagePath": "staticwebassets/images/products/8.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/9.png",
+      "PackagePath": "staticwebassets/images/products/9.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/products/eCatalog-item-default.png",
+      "PackagePath": "staticwebassets/images/products/eCatalog-item-default.png"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/images/refresh.svg",
+      "PackagePath": "staticwebassets/images/refresh.svg"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/js/site.min.js",
+      "PackagePath": "staticwebassets/js/site.min.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/@aspnet/signalr/dist/browser/signalr.js",
+      "PackagePath": "staticwebassets/lib/@aspnet/signalr/dist/browser/signalr.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/@aspnet/signalr/dist/browser/signalr.min.js",
+      "PackagePath": "staticwebassets/lib/@aspnet/signalr/dist/browser/signalr.min.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery-validate/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery-validate/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/jquery.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/jquery.min.map"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery/jquery.slim.js",
+      "PackagePath": "staticwebassets/lib/jquery/jquery.slim.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/jquery/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/jquery.slim.min.map"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/toastr/toastr.css",
+      "PackagePath": "staticwebassets/lib/toastr/toastr.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/toastr/toastr.js.map",
+      "PackagePath": "staticwebassets/lib/toastr/toastr.js.map"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/toastr/toastr.min.css",
+      "PackagePath": "staticwebassets/lib/toastr/toastr.min.css"
+    },
+    {
+      "Id": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/Web/wwwroot/lib/toastr/toastr.min.js",
+      "PackagePath": "staticwebassets/lib/toastr/toastr.min.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Web.props",
+      "PackagePath": "build\\Web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Web.props",
+      "PackagePath": "buildMultiTargeting\\Web.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Web.props",
+      "PackagePath": "buildTransitive\\Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

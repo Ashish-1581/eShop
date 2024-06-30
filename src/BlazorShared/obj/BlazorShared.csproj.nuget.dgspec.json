@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/BlazorShared.csproj": {}
+  },
+  "projects": {
+    "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/BlazorShared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/BlazorShared.csproj",
+        "projectName": "BlazorShared",
+        "projectPath": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/BlazorShared.csproj",
+        "packagesPath": "/Users/ashish/.nuget/packages/",
+        "outputPath": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "/Users/ashish/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Ardalis.ApiEndpoints": "4.1.0",
+            "Ardalis.GuardClauses": "4.0.1",
+            "Ardalis.ListStartupServices": "1.1.4",
+            "Ardalis.Result": "7.0.0",
+            "Ardalis.Specification": "7.0.0",
+            "Ardalis.Specification.EntityFrameworkCore": "7.0.0",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": "1.3.1",
+            "Azure.Identity": "1.10.4",
+            "Blazored.LocalStorage": "4.5.0",
+            "BlazorInputFile": "0.2.0",
+            "BuildBundlerMinifier": "3.2.449",
+            "coverlet.collector": "6.0.2",
+            "FluentValidation": "11.9.0",
+            "MediatR": "12.0.1",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.2",
+            "Microsoft.AspNetCore.Components.Authorization": "8.0.2",
+            "Microsoft.AspNetCore.Components.WebAssembly": "8.0.2",
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "8.0.2",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "8.0.2",
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": "8.0.2",
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "8.0.2",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.2",
+            "Microsoft.AspNetCore.Identity.UI": "8.0.2",
+            "Microsoft.AspNetCore.Mvc": "2.2.0",
+            "Microsoft.AspNetCore.Mvc.Testing": "8.0.2",
+            "Microsoft.EntityFrameworkCore.InMemory": "8.0.2",
+            "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2",
+            "Microsoft.EntityFrameworkCore.Tools": "8.0.2",
+            "Microsoft.Extensions.Identity.Core": "8.0.2",
+            "Microsoft.Extensions.Logging.Configuration": "8.0.0",
+            "Microsoft.NET.Test.Sdk": "17.9.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.19.6",
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.0",
+            "Microsoft.Web.LibraryManager.Build": "2.1.175",
+            "MinimalApi.Endpoint": "1.3.0",
+            "MSTest.TestAdapter": "3.2.2",
+            "MSTest.TestFramework": "3.2.2",
+            "NSubstitute": "5.1.0",
+            "NSubstitute.Analyzers.CSharp": "1.0.17",
+            "Swashbuckle.AspNetCore": "6.5.0",
+            "Swashbuckle.AspNetCore.Annotations": "6.5.0",
+            "Swashbuckle.AspNetCore.SwaggerUI": "6.5.0",
+            "System.IdentityModel.Tokens.Jwt": "7.3.1",
+            "System.Net.Http.Json": "8.0.0",
+            "System.Security.Claims": "4.3.0",
+            "System.Text.Json": "8.0.3",
+            "xunit": "2.7.0",
+            "xunit.runner.console": "2.7.0",
+            "xunit.runner.visualstudio": "2.5.6"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

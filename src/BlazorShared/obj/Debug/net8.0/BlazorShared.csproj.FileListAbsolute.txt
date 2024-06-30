@@ -1,0 +1,13 @@
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/bin/Debug/net8.0/BlazorShared.deps.json
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/bin/Debug/net8.0/BlazorShared.dll
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/bin/Debug/net8.0/BlazorShared.pdb
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.csproj.AssemblyReference.cache
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.AssemblyInfoInputs.cache
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.AssemblyInfo.cs
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.csproj.CoreCompileInputs.cache
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.sourcelink.json
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.dll
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/refint/BlazorShared.dll
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/BlazorShared.pdb
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/obj/Debug/net8.0/ref/BlazorShared.dll

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "w81CKbdMkDQ=",
+  "success": true,
+  "projectFilePath": "/Users/ashish/Desktop/tech-m/eShopOnWeb/src/BlazorShared/BlazorShared.csproj",
+  "expectedPackageFiles": [
+    "/Users/ashish/.nuget/packages/blazorinputfile/0.2.0/blazorinputfile.0.2.0.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.aspnetcore.authorization/3.1.0-preview3.19555.2/microsoft.aspnetcore.authorization.3.1.0-preview3.19555.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.aspnetcore.components/3.1.0-preview3.19555.2/microsoft.aspnetcore.components.3.1.0-preview3.19555.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.aspnetcore.components.analyzers/3.1.0-preview3.19555.2/microsoft.aspnetcore.components.analyzers.3.1.0-preview3.19555.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.aspnetcore.components.forms/3.1.0-preview3.19555.2/microsoft.aspnetcore.components.forms.3.1.0-preview3.19555.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.aspnetcore.components.web/3.1.0-preview3.19555.2/microsoft.aspnetcore.components.web.3.1.0-preview3.19555.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.aspnetcore.metadata/3.1.0-preview3.19555.2/microsoft.aspnetcore.metadata.3.1.0-preview3.19555.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.0-preview3.19553.2/microsoft.extensions.dependencyinjection.3.1.0-preview3.19553.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.0-preview3.19553.2/microsoft.extensions.dependencyinjection.abstractions.3.1.0-preview3.19553.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0-preview3.19553.2/microsoft.extensions.logging.abstractions.3.1.0-preview3.19553.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.extensions.options/3.1.0-preview3.19553.2/microsoft.extensions.options.3.1.0-preview3.19553.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.extensions.primitives/3.1.0-preview3.19553.2/microsoft.extensions.primitives.3.1.0-preview3.19553.2.nupkg.sha512",
+    "/Users/ashish/.nuget/packages/microsoft.jsinterop/3.1.0-preview3.19553.2/microsoft.jsinterop.3.1.0-preview3.19553.2.nupkg.sha512"
+  ],
+  "logs": []
+}

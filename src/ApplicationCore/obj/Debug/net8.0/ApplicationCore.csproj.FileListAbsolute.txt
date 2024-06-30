@@ -1,0 +1,16 @@
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/BlazorShared.dll
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/bin/Debug/net8.0/BlazorShared.pdb
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/Applicat.71DDEAC9.Up2Date
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/ashish/Desktop/tech-m/eShopOnWeb/src/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
