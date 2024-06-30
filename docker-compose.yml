@@ -22,8 +22,8 @@ services:
       - "sqlserver"
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - ConnectionStrings__CatalogConnection=Server=sqlserver,1433;Database=Microsoft.eShopOnWeb.CatalogDb;User Id=SA;Password=reallyStrongPwd123;TrustServerCertificate=True
-      - ConnectionStrings__IdentityConnection=Server=sqlserver,1433;Database=Microsoft.eShopOnWeb.Identity;User Id=SA;Password=reallyStrongPwd123;TrustServerCertificate=True
+      - ConnectionStrings__CatalogConnection=Server=sqlserver,1433;Database=Microsoft.eShopOnWeb.CatalogDb;User Id={your id};Password={your password};TrustServerCertificate=True
+      - ConnectionStrings__IdentityConnection=Server=sqlserver,1433;Database=Microsoft.eShopOnWeb.Identity;User Id={your id};Password={your password};TrustServerCertificate=True
 
   sqlserver:
     image: mcr.microsoft.com/azure-sql-edge
@@ -31,4 +31,4 @@ services:
       - "1433:1433"
     environment:
       - ACCEPT_EULA=Y
-      - SA_PASSWORD=reallyStrongPwd123
+      - SA_PASSWORD={your password}
